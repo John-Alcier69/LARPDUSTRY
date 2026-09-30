@@ -6,5 +6,6 @@ require ("./components/Service.php");
 require ("./components/Products.php");
 require ("./components/About.php");
 require ("./components/Contact.php");
-?>
 
+
+?>
