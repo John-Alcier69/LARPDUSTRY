@@ -7,5 +7,4 @@ require ("./components/Products.php");
 require ("./components/About.php");
 require ("./components/Contact.php");
 
-
 ?>
